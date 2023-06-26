@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# .DS_Score
+.DS_Score
+
 # Distribution / packaging
 .Python
 build/
